@@ -1,11 +1,10 @@
 
-# TODO
+_config.yml 수정하면서 기본 markdown 확인해보기.
+
 - [x] 기본 markdown 테스트.
-
-  - [ ] LaTex 수식이 표현 안됨. 
-
-- [x] header, footer
-- [x] font
+  - [ ] LaTex 수식이 표현 안됨. (MD conversion을 손봐야하는 듯..)
+- [x] side, header, footer 정리
+- [x] fontsize 고정
 
 &nbsp;
 
