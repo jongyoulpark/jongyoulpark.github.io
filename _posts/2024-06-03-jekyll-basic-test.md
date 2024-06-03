@@ -2,10 +2,10 @@
 # TODO
 - [x] 기본 markdown 테스트.
 
-  - [ ] 기본 config에서는 LaTex 수식이 표현 안됨. 
+  - [ ] LaTex 수식이 표현 안됨. 
 
-- [ ] header, footer
-- [ ] font
+- [x] header, footer
+- [x] font
 
 &nbsp;
 
