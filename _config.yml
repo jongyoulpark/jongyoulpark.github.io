@@ -114,7 +114,7 @@ analytics:
 author:
   name             : "jypark"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "AI dev"
+  bio              : "AI Dev"
 #  location         : "Somewhere"
   email            : jongyoul.park@gmail.com
   links:
