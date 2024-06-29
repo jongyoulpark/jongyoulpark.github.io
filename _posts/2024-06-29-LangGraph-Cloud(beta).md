@@ -15,9 +15,9 @@
 # LangGraph Cloud
 
 - a closed source, paid product in an invite-only stage. (24/6/27 현재 closed beta) 
-- https://youtu.be/l4sMKF1dTDM 
+- [https://youtu.be/l4sMKF1dTDM (08:43)](https://youtu.be/l4sMKF1dTDM) 
 - Streaming & Human-in-the-loop : LangGraph 기존 지원.
-- Double-texting : 새로운 사용자 입력 방식 - reject, queue, interrupt, rollback
+- Double-texting : 새로운 사용자 입력 방식 - reject, queue, interrupt, rollback # TODO
 - Asynchronous background jobs : long-running task를 위한 것임. polling 하거나 webhook으로 확인 가능.
 - Cron jobs : 스케줄링.
 
@@ -25,7 +25,7 @@
  - 협업, 배포, 모니터링에 대한 통합된 환경 제공
 
 ## LangGraph Cloud quick start (요약)
-- https://langchain-ai.github.io/langgraph/cloud/quick_start/
+- [https://langchain-ai.github.io/langgraph/cloud/quick_start/](https://langchain-ai.github.io/langgraph/cloud/quick_start/)
   - API Key 준비
     - Anthropic / Travily / LangSmith
   - 작성할 파일
