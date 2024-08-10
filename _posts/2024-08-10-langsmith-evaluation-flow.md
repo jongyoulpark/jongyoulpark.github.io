@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 # Langsmith : Evalution을 위한 데이터 흐름
+=======
+# Langsmith 평가를 위한 데이터 흐름
+>>>>>>> a5f5f8ae9ce3c28a14e381f074a11760097c6097
 
 출처 : [https://docs.smith.langchain.com/concepts/evaluation](https://docs.smith.langchain.com/concepts/evaluation)
 
