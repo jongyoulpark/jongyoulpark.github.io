@@ -1,10 +1,19 @@
 
-_config.yml 수정하면서 기본 markdown 확인해보기.
+# jekyll 이란
+- 정정 웹 사이트 생성기 (md -> html 변환)
+- github 무료 호스팅.
+- ruby 기반 (rbenv, gem 등 버젼/패키지 관리 툴)
+- serving : `bundle exec jekyll serve`
 
+
+# 아래는 기본 markdown 확인 (w/ _config.yml)
 - [x] 기본 markdown 테스트.
-  - [ ] LaTex 수식이 표현 안됨. (MD conversion을 손봐야하는 듯..)
+  - [ ] 아직 LaTex 수식이 표현 안됨. (MD conversion을 손봐야하는 듯..)
 - [x] side, header, footer 정리
 - [x] fontsize 고정
+- [x] M1 줄간격 조절
+
+----
 
 &nbsp;
 
